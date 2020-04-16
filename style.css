@@ -26,3 +26,31 @@
 .flex {
     display: flex;
 }
+
+.txt-center {
+    text-align: center;
+}
+
+.submit-sec {
+    margin-top: 5%;
+}
+
+.txt-green {
+    color: #35ea51;
+}
+
+.txt-purple {
+    color: #584a8c;
+}
+
+.form-cont {
+    background-color: #6c6ecd;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 25px
+}
+
+.correct-img {
+    width: 17%;
+}
